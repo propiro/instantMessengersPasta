@@ -1,0 +1,82 @@
+We could always use Skype.
+Or Riota or Matrix
+Or NextCloud
+Or XMPP
+Or Wire
+Or Briar
+Or Tox
+Or Kontalk
+Or DeltaChat
+Or Ring
+Or BitMessage
+Or Ricochet
+Or PSYC2
+Or Rocket
+Or IRC
+Or Mattermost
+Or Zulip
+Or Orbit
+Or Mumbl
+Or Spectrum
+Or Signal
+Or Keybase
+Or SureSpot
+Or Silence
+Or Telegrama like we do now
+Or IMS
+Or Discord
+Or Glitter
+Or Duo
+Or Keeperchat
+Or Wirck
+Or Threem
+Or Whatsapp
+Or Imessage
+Or MSTeams
+Or Facetime
+Or Line
+Or Allo
+Or iMessenge
+Or Skype
+Or Hangouts
+Or Reddit Chat 
+Or Twitch
+Or Zoom
+Or Slack
+Or Instagram
+Or Snapchat
+Or Steam
+Or WeChat
+Or Kik
+Or Viber
+Or BBM
+Or Kakaotalk
+Or IMO
+Or QQ
+Or Zalo
+Or Tango
+Or Tuenti
+Or ICQ
+Or Gadugadu
+Or Pond
+Or SINC
+Or PSYC1
+Or Zephyr
+Or AIM
+Or MSN
+Or Yahoo Talk
+Or ooVoo
+Or Echo
+Or cdc.io
+Or Pidgen
+Or GroupMe
+Or Deltachat
+Or Zello
+Or Conpherence
+Or Teamspeak
+Or Hipchat
+Or Rivchat
+Or Die With Me
+
+
+Or we could just use SMS or MMS.
