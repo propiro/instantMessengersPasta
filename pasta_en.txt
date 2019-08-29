@@ -1,5 +1,5 @@
 We could always use Skype.
-Or Riota or Matrix
+Or Riot or Matrix
 Or NextCloud
 Or XMPP
 Or Wire
@@ -22,7 +22,7 @@ Or Signal
 Or Keybase
 Or SureSpot
 Or Silence
-Or Telegrama like we do now
+Or Telegram like we do now
 Or IMS
 Or Discord
 Or Glitter
