@@ -77,6 +77,7 @@ Or Teamspeak
 Or Hipchat
 Or Rivchat
 Or Die With Me
+Or Blip
 
 
 Or we could just use SMS or MMS.
