@@ -99,5 +99,6 @@ Albo Linphone
 Albo Session
 Albo Rainbows
 Albo Confide
+Albo Meshtastic
 
 Ostatecznie SMSów lub MMSów

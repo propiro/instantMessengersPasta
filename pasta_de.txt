@@ -98,5 +98,6 @@ Oder Linphone
 Oder Session
 Oder Rainbows
 Oder Confide
+Oder Meshtastic
 
 Oder wir verwenden einfach SMS oder MMS.
