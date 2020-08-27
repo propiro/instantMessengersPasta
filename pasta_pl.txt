@@ -28,7 +28,7 @@ Albo Discorda
 Albo Glittera
 Albo Duo
 Albo Keeperchata
-Albo Wircka
+Albo Wickr'a
 Albo Threema
 Albo Whatsappa
 Albo Imessage'a
@@ -59,7 +59,7 @@ Albo Tuenti
 Albo ICQ
 Albo Gadugadu
 Albo Ponda
-Albo SINCa
+Albo SILCa
 Albo PSYC1'a
 Albo Zephyra
 Albo AIM'a
@@ -67,7 +67,7 @@ Albo MSN'a
 Albo Yahoo Talka
 Albo ooVoo
 Albo Echo
-Albo cdc.io
+Albo cfc.io
 Albo Pidgena
 Albo GroupMe
 Albo Deltachata
@@ -80,4 +80,25 @@ Albo Die With Me
 Albo Blipa
 Albo Yo
 Albo Larka
+Albo Jami
+Albo Status.im'a
+Albo Scuttlebutta
+Albo Semaphora
+Albo stealthy.im'a
+Albo Fortknoxtera
+Albo Crypvisera
+Albo Tungstena
+Albo ȱ
+Albo vero
+Albo tinode'a
+Albo Dust'a
+Albo ZeroMQ
+Albo Cwtch
+Albo Symphony
+Albo Linphone
+Albo Session
+Albo Rainbows
+Albo Confide
+Albo Meshtastic
+
 Ostatecznie SMSów lub MMSów

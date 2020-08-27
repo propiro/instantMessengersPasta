@@ -28,7 +28,7 @@ Or Discord
 Or Glitter
 Or Duo
 Or Keeperchat
-Or Wirck
+Or Wickr
 Or Threem
 Or Whatsapp
 Or Imessage
@@ -59,7 +59,7 @@ Or Tuenti
 Or ICQ
 Or Gadugadu
 Or Pond
-Or SINC
+Or SILC
 Or PSYC1
 Or Zephyr
 Or AIM
@@ -67,7 +67,7 @@ Or MSN
 Or Yahoo Talk
 Or ooVoo
 Or Echo
-Or cdc.io
+Or cfc.io
 Or Pidgen
 Or GroupMe
 Or Deltachat
@@ -79,5 +79,25 @@ Or Rivchat
 Or Die With Me
 Or Blip
 Or Lark
+Or Jami
+Or Status.im
+Or Scuttlebutt
+Or Semaphor
+Or stealthy.im
+Or Fortknoxter
+Or Crypviser
+Or Tungsten
+Or ȱ
+Or vero
+Or tinode
+Or Dust
+Or ZeroMQ
+Or Cwtch
+Or Symphony
+Or Linphone
+Or Session
+Or Rainbows
+Or Confide
+Or Meshtastic
 
 Or we could just use SMS or MMS.
